@@ -1,0 +1,14 @@
+[project]
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.4.6",
+    "opencv-contrib-python>=4.9,<5",
+    "pyqt6>=6.11.0",
+    "scikit-image>=0.26.0",
+    "scipy>=1.17.1",
+    "supervision>=0.30.2",
+]
+name = "vision-computadora-i"
+requires-python = ">=3.11"
+version = "0.1.0"
