@@ -1,6 +1,7 @@
 [dependency-groups]
 dev = [
     "ruff>=0.16.7",
+    "ty>=0.0.83",
 ]
 
 [project]
